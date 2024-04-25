@@ -20,7 +20,6 @@ export const StyledNav = styled.nav`
     text-decoration: none;
     margin-left: 16px;
     font-size: ${theme.fontSizes.medium};
-    background-color: 'red',
     &:first-child {
       margin-left: 0;
     }
